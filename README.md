@@ -1,2 +1,2 @@
 # Django
-Development in django
+Wokspace create for development and test of django project.
