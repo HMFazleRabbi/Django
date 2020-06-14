@@ -9,7 +9,11 @@ class Profile(models.Model):
 
 
 	def __str__(self):
-		return f'{self.user.username} Profile'
+		return '{} Profile'.format(self.user.username)
+
+# https://stackoverflow.com/questions/54084710/syntaxerror-invalid-syntax-for-collectstatic-python
+# You are trying to use f-string in Python 3.5 but they appeared in Python 3.6.
+# Change f'{self.user.username} Profile' to be '{} Profile'.format(self.user.username) or change your Python to be 3.6.		
 
 	def save(self, *args, **kawrgs):
 		super().save()
