@@ -9,6 +9,7 @@ Creating a pet adoption web app using django and sqlite.
 
 **DjangoBlog**
 A blog created from the series Python Django Tutorial: Full-Featured Web App (https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) by Corey Schafer
+__
 01-Getting-Started
 
 02-Application-And-Routes
@@ -37,5 +38,5 @@ A blog created from the series Python Django Tutorial: Full-Featured Web App (ht
 
 AWS and Heroku Code
 13-Deployment-Heroku
-
+__
 13-Deployment-Linode
