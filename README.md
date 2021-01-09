@@ -1,42 +1,29 @@
-# Django
+# Django Projects
 Wokspace create for development and test of django project.
 
-**PortfolioProject**
+<h3>PortfolioProject</h3></br>
 Creating a basic web app to show my portfolio
 
-**PetAdoption/wisdompets**
+<h3>PetAdoption/wisdompets</h3></br>
 Creating a pet adoption web app using django and sqlite.
 
-**DjangoBlog**
+<h3>DjangoBlog</h3> </br>
 A blog created from the series Python Django Tutorial: Full-Featured Web App (https://youtu.be/UmljXZIypDc?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p) by Corey Schafer
 
-01-Getting-Started
-
-02-Application-And-Routes
-
-03-Templates
-
-04-Admin-Page
-
-05-Database-Models
-
-06-User-Registration-Form
-
-07-Login-Logout-Authentication
-
-08-Profile-And-Images
-
-09-Update-User-Profile
-
-10-Posts-Create-Update-Delete
-
-11-Pagination
-
-12-Password-Reset
-
-13-AWS-S3-Uploads
-
-AWS and Heroku Code
-13-Deployment-Heroku
-
-13-Deployment-Linode
+<ol>
+<li> Getting-Started </li>
+<li> Application-And-Routes </li>
+<li> Templates </li>
+<li> Admin-Page </li>
+<li> Database-Models </li>
+<li> User-Registration-Form </li>
+<li> Login-Logout-Authentication </li>
+<li> Profile-And-Images </li>
+<li> Update-User-Profile </li>
+<li> Posts-Create-Update-Delete </li>
+<li> Pagination </li>
+<li> Password-Reset </li>
+<li> AWS-S3-Uploads AWS and Heroku Code </li>
+<li> Deployment-Heroku </li>
+<li> Deployment-Linode </li>
+</ol>
